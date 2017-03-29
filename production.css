@@ -1,0 +1,54 @@
+div {}
+
+html {
+  font-size: 30px;
+}
+
+
+.style_1 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 1rem
+
+}
+.inky {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 2rem
+}
+
+#hydrogen {
+ 
+  float: left;
+  width: 200px;
+  text-align: right;
+  padding-right: 20px;
+}
+#helium {
+  float: left;
+  width: 200px;
+  text-align: right;
+  padding-right: 20px;
+}
+#statBox {
+  background-color: #D3D3D3;
+  border-radius: 5px;
+  color: #000000;
+  width: 400px;
+  height:400px;
+  float: left;
+  padding-left: 20px;
+  
+  }
+
+#rate {
+  float:left;
+  padding-right: 20px;
+}
+
+#H_count {
+	text-align: right;
+}
+
+
+#He_count {
+	text-align: right;
+}
