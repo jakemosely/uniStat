@@ -3,7 +3,7 @@
   background-color: black;
   color: white;
   text-align: center;
-  display: inline-block;
+  display: flex;
   font-size: 16px;
   padding:  40px;
   margin: 10px 10px;
@@ -22,15 +22,17 @@
   bottom: 0;
   right: 0;
   display: flex;
-  align-items: center;
   justify-content: center;
+  align-items: center;
 }
 
 span.currency  {
   display: block;
-  margin-top: 1.33em;
-  margin-bottom: 1.33em;
+  text-align: left;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
   margin-left: 0;
   margin-right: 0;
-  font-weight: bold;
+  font-family: Arial, sans-serif;
+}
 }
